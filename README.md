@@ -12,6 +12,10 @@ Though you must assume a large degree of generalization, empirical evidence sugg
  y = 13
 ```
 words 
+\begin{align*}
+x^12 & = 12 
+& l_i
+\end{align*}
 # Required pacakages / software 
 
 
