@@ -7,7 +7,11 @@ Given that the individual assets under observation have open option contracts, w
 Though you must assume a large degree of generalization, empirical evidence suggests that assets with a steep volatility smirk are associated with poor future performance of the asset and visa-versa. Initutively this makes sense, as high demand for long put options signals that investors have a negative view regarding the asset, which in turn causes upward pressure on the option's implied volatility and contract price (also leading to steeper smirks). 
 
 # Useage 
-
+```{Code Chunk}
+ x = 12 
+ y = 13
+```
+words 
 # Required pacakages / software 
 
 
