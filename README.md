@@ -10,13 +10,9 @@ Though you must assume a large degree of generalization, empirical evidence sugg
 ```{Code Chunk}
  x = 12 
  y = 13
+ x + y
+ print(x + y)
 ```
-words 
-\begin{align*}
-x^12 & = 12 
-& l_i
-\end{align*}
-# Required pacakages / software 
 
 
 
